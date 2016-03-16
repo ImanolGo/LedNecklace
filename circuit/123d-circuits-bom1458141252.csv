@@ -1,0 +1,7 @@
+123D Circuits Bill Of Materials
+IDS,#,Component,Footprint,Properties
+"U1, U2, U3, U4, U5, U6",6,Photodiode  BPW34: The cell is sensitive to a wide range of light wavelengths (430-1100nm), so it should produce power in a number of different settings. The rated open circuit voltage is 350mV (900nm, 1mW/cm2 light source), and short circuit current is 47μA.""
+U7,1,Adafruit Feather M0 add-on v2  ,feather last pin (forked),""
+"LED1, LED2, LED3, LED4",4,"WS2812 (NeoPixel, RGB LED strip)  WS2812 - RGB LED Strip ",505 RGB SMD LED (forked),""
+"U8, U9",2,JST Connector-4 Pin  ,JST 4-Wire,""
+R1,1,"Resistor  Resist the flow of electrical energy in a circuit, changing the voltage and current as a result. ",0411/15,1 Mohm
